@@ -1,3 +1,3 @@
 # Koya's List of Places
 ## Cafe's
-- [something](www.google.com)
+- [something](https://www.google.com/)
